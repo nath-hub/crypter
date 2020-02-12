@@ -1,0 +1,18 @@
+c:\users\best computer\documents\visual studio 2013\Projects\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.exe.config
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.exe
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.pdb
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.csprojResolveAssemblyReference.cache
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.Form1.resources
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.Properties.Resources.resources
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.csproj.GenerateResource.Cache
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.exe
+C:\Users\BEST COMPUTER\Documents\Visual Studio 2013\Projects\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.pdb
+K:\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.exe.config
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.exe
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.pdb
+K:\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.exe
+K:\projet_cryptage\projet_cryptage\bin\Debug\projet_cryptage.pdb
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.csprojResolveAssemblyReference.cache
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.Form1.resources
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.Properties.Resources.resources
+K:\projet_cryptage\projet_cryptage\obj\Debug\projet_cryptage.csproj.GenerateResource.Cache
